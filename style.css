@@ -1,0 +1,18 @@
+h1{
+    border: 2px solid red;
+    border-bottom: 2px solid rgb(142, 228, 36);
+    border-left: 10px solid rgb(146, 184, 20);
+    border-right: 10px solid rgb(28, 114, 194);
+    color: green;
+    text-align: center;
+    width: 300px;
+    margin: auto;
+}
+h2{
+    border: 2px solid rgb(26, 23, 101);
+    color: rgb(11, 17, 11);
+    text-align: center;
+}
+body{
+    background-color: rgb(88, 7, 46);
+}
